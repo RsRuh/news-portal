@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* display: table; */
+}
+.news-author-img{
+    width: 32px;
+}
+.news-author-published{
+    font-size: 12px;
+}
+.gray{
+    background-color: 	 #e6e5e5;
+}
+#btnn:hover{
+    background-color: #EEEFFF;
+    color: #5D5FEF;
+}
+#btnn:focus{
+    color: #5D5FEF;
+    font-weight: 600;
+    background-color: #f2f2f2;
+}
+.arrow{
+    color: #5D5FEF;
+
+}
